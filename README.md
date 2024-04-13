@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/ElanYoung/vite-vue-js-starter-template" target="_blank">Vite 5 🚀 - Vue 3  Starter Template</a></h1>
+<h1 align="center"><a href="https://github.com/ElanYoung/vite-vue-js-starter-template" target="_blank">Vite 5 🚀 - Vue 3  Starter Templates</a></h1>
 
 <p align="center">
   <a href="https://nodejs.org/en/about/releases/">
